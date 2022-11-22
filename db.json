@@ -1,0 +1,151 @@
+{
+    "filmes": [
+      {
+        "id": 1,
+        "nome": "avatar",
+        "classificação": "livre",
+        "lançamento": "15/12/2022",
+        "genero":"Aventura",
+        "categoria_id": 1
+      },
+
+      {
+        "id":2,
+        "nome":"Pantera Negra",
+        "classificação":"livre",
+        "lançamento":"10/11/2022",
+        "genero":"Aventura",
+        "categoria_id":1
+
+      },
+      
+      {
+        "id":3,
+        "nome":"Adão Negro",
+        "classificação":"livre",
+        "lançamento":"20/10/2022",
+        "genero":"Aventura",
+        "categoria_id":1
+
+      },
+
+      {
+        "id": 4,
+        "nome": "Desencantada",
+        "classificação": "livre",
+        "lançamento": "16/11/2022",
+        "genero":"Fantasia",
+        "categoria_id": 1
+      },
+      
+      {
+        "id": 5,
+        "nome": "Abracadabra 2",
+        "classificação": "livre",
+        "lançamento": "30/09/2022",
+        "genero":"Fantasia",
+        "categoria_id": 1
+      },
+
+      {
+        "id": 6,
+        "nome": "Slumberland",
+        "classificação": "livre",
+        "lançamento": "11/11/2022",
+        "genero":"Fantasia",
+        "categoria_id": 1
+      },
+
+      {
+        "id": 7,
+        "nome": "Hallo Ween Ends",
+        "classificação": "Maiores de 18 anos ",
+        "lançamento": "13/10/2022",
+        "genero":"Terror",
+        "categoria_id": 1
+      },
+      
+      {
+        "id": 8,
+        "nome": "A Órfã 2",
+        "classificação": "Maiores de 18 anos",
+        "lançamento": "15/09/2022",
+        "genero":"Terror",
+        "categoria_id": 1
+      },
+
+      {
+        "id": 9,
+        "nome": "Não! Não Olhe",
+        "classificação": "Maiores de 18 anos",
+        "lançamento": "25/08/2022",
+        "genero":"Terror",
+        "categoria_id": 1
+      },
+
+      {
+        "id": 10,
+        "nome": "De Férias da Família",
+        "classificação": "Livre",
+        "lançamento": "26/08/2022",
+        "genero":"Comedia",
+        "categoria_id": 1
+      },
+      
+      {
+        "id": 11,
+        "nome": "O Homem de Toronto",
+        "classificação": "Livre",
+        "lançamento": "24/07/2022",
+        "genero":"Comedia",
+        "categoria_id": 1
+      },
+
+      {
+        "id": 12,
+        "nome": "Dupla jornada",
+        "classificação": "Livre",
+        "lançamento": "12/06/2022",
+        "genero":"Comedia",
+        "categoria_id": 1
+      },
+
+      {
+        "id": 13,
+        "nome": "Esposa de Aluguel",
+        "classificação": "Livre",
+        "lançamento": "26/08/2022",
+        "genero":"Romance",
+        "categoria_id": 1
+      },
+      
+      {
+        "id": 14,
+        "nome": "Depois do Universo",
+        "classificação": "Livre",
+        "lançamento": "27/10/2022",
+        "genero":"Romance",
+        "categoria_id": 1
+      },
+
+      {
+        "id": 15,
+        "nome": "Continêcia ao Amor",
+        "classificação": "Livre",
+        "lançamento": "29/07/2022",
+        "genero":"Romance",
+        "categoria_id": 1
+      }
+
+
+
+
+
+
+
+
+
+    ]
+}
+
+    
